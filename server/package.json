@@ -1,0 +1,16 @@
+{
+  "name": "tlbs-dashboard-server",
+  "version": "0.1.0",
+  "private": true,
+  "main": "index.js",
+  "type": "module",
+  "dependencies": {
+    "express": "^4.18.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.0",
+    "firebase-admin": "^11.0.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "name": "tlbs-dashboard",
+  "private": true,
+  "workspaces": [
+    "client",
+    "server"
+  ]
+}
